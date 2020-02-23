@@ -1,12 +1,12 @@
 # Basics
-## Leap Year
-## Sequence Sum
-## Evergreen Tree
-## Luhn Algorithm
-## ASCII Font
+## 01. Leap Year
+## 02. Sequence Sum
+## 03. Evergreen Tree
+## 04. Luhn Algorithm
+## 05. ASCII Font
 
 # Text Files
-## CSV to JSON
+## 06. CSV to JSON
 Классическая задача - прочесть CSV, записать JSON. Обратный процесс мало чем отличается.
 [file.csv](https://raw.githubusercontent.com/unrealsolver/python-tasks/master/sample.csv)
 Рекомендации:
